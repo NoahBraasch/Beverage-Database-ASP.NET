@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beverage-Database", "Beverage-Database\Beverage-Database.csproj", "{3151045C-7F6B-4AB1-B17A-C94D1D1B5C05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beverage-Database-Tests", "Beverage-Database-Tests\Beverage-Database-Tests.csproj", "{20859008-C025-45F6-BFF2-FE807A42BD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3151045C-7F6B-4AB1-B17A-C94D1D1B5C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3151045C-7F6B-4AB1-B17A-C94D1D1B5C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3151045C-7F6B-4AB1-B17A-C94D1D1B5C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3151045C-7F6B-4AB1-B17A-C94D1D1B5C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20859008-C025-45F6-BFF2-FE807A42BD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20859008-C025-45F6-BFF2-FE807A42BD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20859008-C025-45F6-BFF2-FE807A42BD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20859008-C025-45F6-BFF2-FE807A42BD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF8F1C0-BE05-4A29-B7B9-9925870C0654}
+	EndGlobalSection
+EndGlobal
